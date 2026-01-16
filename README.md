@@ -32,3 +32,6 @@
 
 ## Link các bài báo cáo: 
 [https://drive.google.com/drive/u/5/folders/1XXikaYIWzU4fgjBLsf7QExJ9tK-kbQ1V2fG4A7U0eRbhYX_ovMUgnw-S2_LM2araTYMPtN5R](https://drive.google.com/drive/folders/1EiLgkVI-uku1XcehXEp5PYd3kpr4u_aGQE-LbplwMgzwswiqlwj_lltY4x28058DciuS4I9Z)
+
+## Link slide Game theory
+https://www.canva.com/design/DAG49RS_2TQ/osEg42fWmurVzYcfOcrwIw/edit
